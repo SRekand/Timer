@@ -1,1 +1,1 @@
-# JS_Timer
+Basic JS, that displays a timer.
